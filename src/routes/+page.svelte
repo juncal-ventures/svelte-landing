@@ -29,35 +29,12 @@
 					class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Join Newsletter</label
 				>
 				<div class="relative">
-					<div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
-						<svg
-							xmlns="http://www.w3.org/2000/svg"
-							width="28"
-							height="28"
-							viewBox="0 0 28 28"
-							fill="none"
-						>
-							<path
-								d="M13.6668 14.9774C15.5452 14.9774 17.0679 13.4547 17.0679 11.5763C17.0679 9.69799 15.5452 8.17529 13.6668 8.17529C11.7885 8.17529 10.2658 9.69799 10.2658 11.5763C10.2658 13.4547 11.7885 14.9774 13.6668 14.9774Z"
-								stroke="#AEAEAE"
-								stroke-width="2.26736"
-								stroke-linecap="round"
-								stroke-linejoin="round"
-							/>
-							<path
-								d="M13.667 2.50684C11.2616 2.50684 8.95476 3.46236 7.25391 5.16321C5.55306 6.86406 4.59753 9.1709 4.59753 11.5763C4.59753 13.7212 5.05327 15.1247 6.29805 16.6778L13.667 25.1804L21.0359 16.6778C22.2807 15.1247 22.7364 13.7212 22.7364 11.5763C22.7364 9.1709 21.7809 6.86406 20.08 5.16321C18.3792 3.46236 16.0723 2.50684 13.667 2.50684V2.50684Z"
-								stroke="#AEAEAE"
-								stroke-width="2.26736"
-								stroke-linecap="round"
-								stroke-linejoin="round"
-							/>
-						</svg>
-					</div>
+					
 					<input
 						type="search"
 						id="default-search"
 						class="block w-full p-4 pl-12 md:p-6 md:pl-12 text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-purple-500 focus:border-purple-500"
-						placeholder="Search by Location"
+						placeholder="Join newsletter"
 						required
 					/>
 					<button
